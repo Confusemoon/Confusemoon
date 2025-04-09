@@ -17,7 +17,9 @@ My passion lies in game engine and language learning, and exploring innovations 
 
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Confusemoon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Confusemoon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## Dev Quote
 > "The computer was born to solve problems that did not exist before."  
